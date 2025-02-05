@@ -2,16 +2,15 @@
 
 # 📌 Project Name <!-- Project Name here -->
 
-## 📝 Overview
-<!-- A brief description of the project. Explain what it does, its purpose, and its key features. -->
+Dino Game
 
-## 🎯 Learning Objectives
-<!--
-- List the programming concepts or technologies covered in this project.
-- Example: Loops, Functions, API calls, Object-Oriented Programming, etc.
--->
+## 📝 Overview
+
+Recreation of the offline dino game on chrome browsers.
 
 ## 🛠️ Technologies Used
+
+- Pygame
 <!--
 - Programming Language(s): Python, JavaScript, etc.
 - Frameworks/Libraries: React, Flask, etc.
